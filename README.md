@@ -16,7 +16,7 @@ A full campus map can be found at http://www1.amherst.edu/about_amh06/visit/map/
 
 Parking is available from noon to 5pm in the Alumni Parking lot (between Spring Street and College Street/Route 9 and between Alumni House and Seelye Street.
 
-![Merrill map](map1.png "Merrill map")
+![Alumni house map](map2.png "Alumni parking map")
 
 ### Laptops
 
