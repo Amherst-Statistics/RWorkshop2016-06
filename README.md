@@ -7,7 +7,7 @@
 The workshop will be taking place in Merrill 131 (Amherst College Science Center).
 Here's the part of the map that includes Merrill.
 
-![Merrill map](map1.jpg "Merrill map")
+![Merrill map](map1.png "Merrill map")
 
 A full campus map can be found at http://www1.amherst.edu/about_amh06/visit/map/index.html
 
@@ -16,7 +16,7 @@ A full campus map can be found at http://www1.amherst.edu/about_amh06/visit/map/
 
 Parking is available from noon to 5pm in the Alumni Parking lot (between Spring Street and College Street/Route 9 and between Alumni House and Seelye Street.
 
-![Merrill map](map1.jpg "Merrill map")
+![Merrill map](map1.png "Merrill map")
 
 ### Laptops
 
