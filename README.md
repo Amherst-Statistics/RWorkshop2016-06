@@ -39,16 +39,24 @@ Please let me know if you didn't receive this.
 - 2:45-3:45pm Case study: modeling course evaluations
 - 3:45-4:30pm Closing thoughts and next steps
 
-
 ## Resources
+
+### Workshop related
 
 - http://www.github.com/Amherst-Statistics/RWorkshop2016-06 (this page)
 - http://www.amherst.edu/~nhorton/workshop (workshop materials)
 - http://www.amherst.edu/~nhorton/rstudio (student resources)
 - https://cran.r-project.org/web/packages/mosaic/ (mosaic vignettes)
+
+### General Stat Ed
+
 - http://www.amstat.org/education/gaise/collegeupdate/GAISE2016_DRAFT.pdf (revised GAISE College report)
-- http://amstat.tandfonline.com/doi/full/10.1080/00031305.2015.1094283 (Thinking with data)
 - http://www.amstat.org/education/resourcesforundergradteachers.cfm
 - http://www.amstat.org/education/pdfs/Resources-for-Teaching-an-Intro-Stats-Course.pdf
-- http://community.amstat.org/stats101/home
+- http://community.amstat.org/stats101/home (Stats 101 examples)
+- http://causeweb.org (CAUSE)
 
+### Thinking with Data
+
+- http://amstat.tandfonline.com/doi/full/10.1080/00031305.2015.1094283 (Thinking with data)
+- http://www.amherst.edu/~nhorton/precursors (developing precursors to "Thinking with Data")
