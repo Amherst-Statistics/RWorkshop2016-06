@@ -24,7 +24,8 @@ You'll be working on your own laptops: please be sure to bring it and power cord
 
 ### Shared RStudio server
 
-You should all have received login and password information for the shared RStudio server.  Please let me know if you didn't receive this.
+You should all have received login and password information for the shared RStudio server (http://107.170.119.53:8787).
+Please let me know if you didn't receive this.
 
 
 ## Schedule
