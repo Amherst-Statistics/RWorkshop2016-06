@@ -42,11 +42,13 @@ Please let me know if you didn't receive this.
 
 ## Resources
 
-- http://www.github.com/Amherst-Statistics/RWorkshop2016-06
-- http://www.amherst.edu/~nhorton/rstudio
-- http://www.amherst.edu/~nhorton/workshop
-- https://cran.r-project.org/web/packages/mosaic/
-- http://www.amstat.org/education/gaise/collegeupdate/GAISE2016_DRAFT.pdf
-- http://amstat.tandfonline.com/doi/full/10.1080/00031305.2015.1094283
-
+- http://www.github.com/Amherst-Statistics/RWorkshop2016-06 (this page)
+- http://www.amherst.edu/~nhorton/workshop (workshop materials)
+- http://www.amherst.edu/~nhorton/rstudio (student resources)
+- https://cran.r-project.org/web/packages/mosaic/ (mosaic vignettes)
+- http://www.amstat.org/education/gaise/collegeupdate/GAISE2016_DRAFT.pdf (revised GAISE College report)
+- http://amstat.tandfonline.com/doi/full/10.1080/00031305.2015.1094283 (Thinking with data)
+- http://www.amstat.org/education/resourcesforundergradteachers.cfm
+- http://www.amstat.org/education/pdfs/Resources-for-Teaching-an-Intro-Stats-Course.pdf
+- http://community.amstat.org/stats101/home
 
