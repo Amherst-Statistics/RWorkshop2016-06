@@ -68,3 +68,8 @@ Please let me know if you didn't receive this.
 
 - http://amstat.tandfonline.com/doi/full/10.1080/00031305.2015.1094283 (Thinking with data)
 - http://www.amherst.edu/~nhorton/precursors (developing precursors to "Thinking with Data")
+
+### RStudio servers
+
+- http://deanattali.com/2015/05/09/setup-rstudio-shiny-server-digital-ocean/
+- https://www.causeweb.org/cause/ecots/ecots16/breakouts/7
