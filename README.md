@@ -45,5 +45,7 @@ You should all have received login and password information for the shared RStud
 - http://www.amherst.edu/~nhorton/rstudio
 - http://www.amherst.edu/~nhorton/workshop
 - https://cran.r-project.org/web/packages/mosaic/
+- http://www.amstat.org/education/gaise/collegeupdate/GAISE2016_DRAFT.pdf
+- http://amstat.tandfonline.com/doi/full/10.1080/00031305.2015.1094283
 
 
