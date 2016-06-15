@@ -48,7 +48,13 @@ Please let me know if you didn't receive this.
 - http://www.github.com/Amherst-Statistics/RWorkshop2016-06 (this page)
 - http://www.amherst.edu/~nhorton/workshop (workshop materials)
 - http://www.amherst.edu/~nhorton/rstudio (student resources)
-- https://cran.r-project.org/web/packages/mosaic/ (mosaic vignettes)
+
+### Textbook related
+
+- https://cran.r-project.org/web/packages/mosaic/ (mosaic vignettes and textbooks)
+- http://www.amherst.edu/~nhorton/sdm4 (De Veaux, Velleman, and Bock Stats Data and Models)
+- http://www.amherst.edu/~nhorton/is4 (De Veaux, Velleman, and Bock Stats Intro Stats)
+- http://www.amherst.edu/~nhorton/ips6e (IPS 6th edition)
 
 ### General Stat Ed
 
