@@ -41,7 +41,9 @@ You should all have received login and password information for the shared RStud
 
 ## Resources
 
-http://www.github.com/Amherst-Statistics/RWorkshop2016-06
-http://www.amherst.edu/~nhorton/rstudio
+- http://www.github.com/Amherst-Statistics/RWorkshop2016-06
+- http://www.amherst.edu/~nhorton/rstudio
+- http://www.amherst.edu/~nhorton/workshop
+- https://cran.r-project.org/web/packages/mosaic/
 
 
