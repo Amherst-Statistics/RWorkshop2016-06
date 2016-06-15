@@ -1,5 +1,7 @@
 # Teaching Statistics Using R and RStudio Workshop (Amherst College, June 15, 2016)
 
+The workshop is sponsored by the Amherst College Department of Mathematics and Statistics and the Boston Chapter of the American Statistical Association.
+
 ## Logistics
 
 ### Location
